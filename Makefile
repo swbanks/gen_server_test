@@ -1,5 +1,5 @@
 ERL ?= erl
-APP := gen_server_app
+APP := gen_server_test
 REBAR = rebar
 
 .PHONY: eunit
